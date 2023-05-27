@@ -44,7 +44,7 @@ public class AbstractClassDemo {
 		h.run();   //invoking normal or non abstract method
 		Animal.sleep();   //invoking static method without object
 		                  //constructor will be invoked automatically during the creation of object
-
+    System.out.println("kowshik first commit");
 	}
 
 }
